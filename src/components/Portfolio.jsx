@@ -16,17 +16,17 @@ const Portfolio = () => {
         {
             id: 2,
             src: navbar,
-            codeLink:'https://github.com/pranavippp/pharmacy'
+            codeLink:'https://github.com/polisettypranavi/codepen'
         },
         {
             id: 3,
             src: reactParallax,
-            codeLink:'https://github.com/polisettypranavi/codepen'
+            codeLink:'https://github.com/polisettypranavi/ai-pose-estimation-and-gym-tracker'
         },
         {
             id: 4,
             src: instaNode,
-            codeLink:'https://github.com/polisettypranavi/ai-pose-estimation-and-gym-tracker'
+            codeLink:'https://github.com/pranavippp/pharmacy'
         },
     ]
     return (
