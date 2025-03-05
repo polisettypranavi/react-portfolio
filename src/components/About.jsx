@@ -14,8 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        I am Pranavi Polisetty, a bright and ambitious B.Tech student pursuing my degree in Artificial Intelligence and Machine Learning (AIML) at PACE Institute of Technology and Sciences. With a remarkable academic record, I have maintained a impressive CGPA of 8.9. Throughout my academic journey, I have consistently demonstrated a strong work ethic and a keen interest in AI and ML. I am passionate about staying updated with the latest developments in the field and exploring innovative solutions to real-world problems. With a strong foundation in computer science and a zeal for learning, I am confident in my ability to make a meaningful impact in the industry. I am excited to leverage my skills and knowledge to drive positive change and make a difference in the world.
-        </p>
+        I am Pranavi Polisetty, ambitious B.Tech student pursuing my degree in Artificial Intelligence and Machine Learning (AIML) at PACE Institute of Technology and Sciences. With a remarkable academic record, I have maintained a impressive CGPA of 9.0. Throughout my academic journey, I have consistently demonstrated a strong work ethic and a keen interest in AI and ML. I am passionate about staying updated with the latest developments in the field and exploring innovative solutions to real-world problems. With a strong foundation in computer science and a zeal for learning, I am confident in my ability to make a meaningful impact in the industry. I am excited to leverage my skills and knowledge to drive positive change.
 
         <br />
 
