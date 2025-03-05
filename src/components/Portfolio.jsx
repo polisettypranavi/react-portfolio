@@ -1,6 +1,5 @@
 import React from 'react'
 import arrayDestruct from '../assets/portfolio/aitrade.jpeg'
-import instaNode from '../assets/portfolio/apollo_social.png'
 import navbar from '../assets/portfolio/codepen.png'
 import reactParallax from '../assets/portfolio/pose.png'
 
@@ -10,23 +9,18 @@ const Portfolio = () => {
         {
             id: 1,
             src: arrayDestruct,
-            codeLink:'https://github.com/polisettypranavi/AiTradeBot'
+            codeLink:'https://github.com/pranavi05/Taskmanager'
            
         },
         {
             id: 2,
             src: navbar,
-            codeLink:'https://github.com/polisettypranavi/codepen'
+            codeLink:'https://github.com/pranavi05/Digitrecognition'
         },
         {
             id: 3,
             src: reactParallax,
-            codeLink:'https://github.com/polisettypranavi/ai-pose-estimation-and-gym-tracker'
-        },
-        {
-            id: 4,
-            src: instaNode,
-            codeLink:'https://github.com/pranavippp/pharmacy'
+            codeLink:'https://papaya-starlight-f3a6c2.netlify.app/'
         },
     ]
     return (
