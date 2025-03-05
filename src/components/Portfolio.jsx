@@ -1,7 +1,7 @@
 import React from 'react'
-import arrayDestruct from '../assets/portfolio/aitrade.jpeg'
-import navbar from '../assets/portfolio/codepen.png'
-import reactParallax from '../assets/portfolio/pose.png'
+import arrayDestruct from '../assets/portfolio/tsm.jpeg'
+import navbar from '../assets/portfolio/dr.png'
+import reactParallax from '../assets/portfolio/port.jpeg'
 
 const Portfolio = () => {
 
