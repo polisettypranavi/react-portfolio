@@ -20,7 +20,7 @@ const Portfolio = () => {
         {
             id: 3,
             src: reactParallax,
-            codeLink:'https://papaya-starlight-f3a6c2.netlify.app/'
+            codeLink:'https://github.com/polisettypranavi/react-portfolio'
         },
     ]
     return (
